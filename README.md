@@ -1,2 +1,10 @@
 # shopping-list
-Week 1 practice
+- cucumbers
+- tomatoes
+- arugula
+- avocados
+- red onions
+- eggs
+- salmon
+- potatoes
+- almond milk 
