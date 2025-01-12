@@ -8,3 +8,8 @@
 - salmon
 - potatoes
 - almond milk 
+- dried mangos
+- dried apricots
+- cauliflower
+- lettuce
+- tuna
